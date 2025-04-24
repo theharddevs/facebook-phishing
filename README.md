@@ -1,5 +1,5 @@
 # facebook-phishing
-Instagram phishing and hacking services with bots 
+Instagram phishing and hacking methods with bots 
 
 contact me on telegram - https://t.me/profcodes
 
