@@ -6,6 +6,6 @@ contact me on telegram - https://t.me/profcodes
 ![fbb](https://github.com/user-attachments/assets/531a720d-88ae-4ee2-ad14-9af897575399)
 
 # facebook clone script
-facebook scampage
+# facebook scampage
 facebook clone script
 facebook cloning method
