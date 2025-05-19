@@ -11,3 +11,4 @@ facebook clone script
 facebook cloning method
 # facebook hack
 facebook spy hacking login password
+facebook account recovery
