@@ -13,7 +13,7 @@ facebook cloning method
 facebook spy hacking login password
 facebook account recovery
 # facebook ban app
-facebook phishing
-facebook cloner
+# facebook phishing
+# facebook cloner
 facebook mass report
 # facebook report tool
