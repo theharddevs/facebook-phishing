@@ -11,7 +11,7 @@ contact me on telegram - https://t.me/profcodes
 facebook cloning method
 # facebook hack
 facebook spy hacking login password
-facebook account recovery
+# facebook account recovery
 # facebook ban app
 # facebook phishing
 # facebook cloner
