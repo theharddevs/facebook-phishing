@@ -8,7 +8,7 @@ contact me on telegram - https://t.me/profcodes
 # facebook clone script
 # facebook scampage
 # facebook clone script
-facebook cloning method
+# facebook cloning method
 # facebook hack
 facebook spy hacking login password
 # facebook account recovery
