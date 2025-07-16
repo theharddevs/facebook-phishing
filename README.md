@@ -17,3 +17,4 @@ contact me on telegram - https://t.me/profcodes
 # facebook cloner
 # facebook mass report
 # facebook report tool
+# facebook ban tool
